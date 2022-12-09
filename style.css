@@ -4,12 +4,12 @@
 }
 
 h1 {
-  font-size: 20pt;
+  font-size: 18pt;
   color: #a8dadc;
 }
 
 h3 {
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 #top {
@@ -31,7 +31,7 @@ h3 {
 }
 
 #title {
-  width: 57%;
+  width: 58%;
   text-align: center;
   display: inline-block;
   vertical-align: middle;
