@@ -1,29 +1,31 @@
 #container {
   width: 100%;
-  background-color: #8cdedc;
+  background-color: #a8dadc;
 }
 
 #top {
   width: auto;
-  background-color: #841c26;
+  background-color: #1d3557;
   text-align: center;
-  color: #b2ece1;
+  color: #f1faee;
 }
 
 .week {
   width: auto;
-  background-color: #ba274a;
+  background-color: #457b9d;
   text-align: center;
+  color: #f1faee;
 }
 
 .day {
   width: 150px;
   height: auto;
-  background-color: #2191fb;
+  background-color: #f1faee;
   display: inline-block;
   vertical-align: top;
   padding: 5px;
   margin: 10px;
+  color: #1d3557;
 }
 
 .tuesday {
