@@ -3,10 +3,23 @@
   background-color: #a8dadc;
 }
 
+h1 {
+  font-size: 24pt;
+  color: #a8dadc;
+}
+
+h3 {
+  font-size: 14pt;
+}
+
 #top {
   width: auto;
   background-color: #1d3557;
-
+  padding: 10px;
+  border-color: #e63946;
+  border-width: 3px;
+  border-style: groove;
+  border-bottom: none;
   color: #f1faee;
 }
 
@@ -36,6 +49,10 @@
   background-color: #457b9d;
   text-align: center;
   color: #f1faee;
+  border-color: #e63946;
+  border-width: 3px;
+  border-style: groove;
+  border-bottom: none;
 }
 
 .day {
