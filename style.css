@@ -1,24 +1,25 @@
 #container {
   width: 100%;
-  background-color: gray;
+  background-color: #8cdedc;
 }
 
 #top {
   width: auto;
-  background-color: blue;
+  background-color: #841c26;
   text-align: center;
+  color: #b2ece1;
 }
 
 .week {
   width: auto;
-  background-color: blanchedalmond;
+  background-color: #ba274a;
   text-align: center;
 }
 
 .day {
   width: 150px;
   height: auto;
-  background-color: aqua;
+  background-color: #2191fb;
   display: inline-block;
   vertical-align: top;
   padding: 5px;
