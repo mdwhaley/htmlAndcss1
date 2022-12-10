@@ -70,3 +70,15 @@ h3 {
   border-style: groove;
   box-shadow: 10px 5px 5px #726c53;
 }
+
+.day a:link {
+  color: #2d1b08;
+}
+
+.day a:visited {
+  color: #785b46;
+}
+
+.day a:hover {
+  color: #726c53;
+}
